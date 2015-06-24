@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project 0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Nanodegree Apps</string>
+    <string name="button">Spotify Streamer</string>
+    <string name="button2">Scores App</string>
+    <string name="button3">Library App</string>
+    <string name="button4">Build it Bigger</string>
+    <string name="button5">XYZ Ready</string>
+    <string name="button6">Capstone</string>
+    <string name="spotify">This will launch a Spotify app</string>
+    <string name="scores">One day this button will launch a Scores app</string>
+    <string name="library">This app will have something to so with a Library, I guess</string>
+    <string name="BIB">The acronym of this app is BIB</string>
+    <string name="XYZ">Now I know my ABC\'s</string>
+    <string name="capstone">I don\'t know what Capstone is</string>
+</resources>
